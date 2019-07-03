@@ -15,7 +15,5 @@ Password:<br>
 <button type="submit" >Login </button>
 </form>
 
-<p>After you submit, notice that, unlike the GET method, the form values is NOT visible in the address bar of the new browser tab.</p>
-
 </body>
 </html>
